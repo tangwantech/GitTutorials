@@ -1,1 +1,2 @@
 Github beginner
+Git is awesome

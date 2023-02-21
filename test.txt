@@ -1,2 +1,3 @@
 Github beginner
 Git is awesome
+added text to main branch
